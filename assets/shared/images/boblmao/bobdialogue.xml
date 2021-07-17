@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bobdialogue.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bobdialogue0000" x="0" y="0" width="423" height="710" frameX="0" frameY="0" frameWidth="1248" frameHeight="720"/>
+	<SubTexture name="bobdialogue0001" x="423" y="0" width="590" height="710" frameX="0" frameY="0" frameWidth="1248" frameHeight="720"/>
+	<SubTexture name="bobdialogue0002" x="1013" y="0" width="1009" height="200" frameX="-6" frameY="-510" frameWidth="1248" frameHeight="720"/>
+	<SubTexture name="bobdialogue0003" x="0" y="710" width="1248" height="344" frameX="0" frameY="-369" frameWidth="1248" frameHeight="720"/>
+	<SubTexture name="bobdialogue0004" x="0" y="1054" width="1248" height="417" frameX="0" frameY="-303" frameWidth="1248" frameHeight="720"/>
+</TextureAtlas>

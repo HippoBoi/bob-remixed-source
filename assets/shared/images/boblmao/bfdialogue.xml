@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bfdialogue.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bfdialogue0000" x="0" y="0" width="127" height="431" frameX="-1093" frameY="-15" frameWidth="1248" frameHeight="446"/>
+	<SubTexture name="bfdialogue0001" x="127" y="0" width="745" height="446" frameX="-472" frameY="0" frameWidth="1248" frameHeight="446"/>
+	<SubTexture name="bfdialogue0002" x="872" y="0" width="1078" height="390" frameX="-158" frameY="-56" frameWidth="1248" frameHeight="446"/>
+	<SubTexture name="bfdialogue0003" x="0" y="446" width="1248" height="333" frameX="0" frameY="-113" frameWidth="1248" frameHeight="446"/>
+	<SubTexture name="bfdialogue0004" x="0" y="779" width="1248" height="416" frameX="0" frameY="-30" frameWidth="1248" frameHeight="446"/>
+</TextureAtlas>

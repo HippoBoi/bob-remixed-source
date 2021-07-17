@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="stickman-portrait.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="stickman portrait0000" x="0" y="0" width="320" height="614" frameX="0" frameY="0" frameWidth="510" frameHeight="614"/>
+	<SubTexture name="stickman portrait0001" x="320" y="0" width="321" height="614" frameX="-115" frameY="0" frameWidth="510" frameHeight="614"/>
+	<SubTexture name="stickman portrait0002" x="641" y="0" width="320" height="614" frameX="-161" frameY="0" frameWidth="510" frameHeight="614"/>
+	<SubTexture name="stickman portrait0003" x="0" y="614" width="320" height="614" frameX="-181" frameY="0" frameWidth="510" frameHeight="614"/>
+	<SubTexture name="stickman portrait0004" x="0" y="614" width="320" height="614" frameX="-188" frameY="0" frameWidth="510" frameHeight="614"/>
+	<SubTexture name="stickman portrait0005" x="320" y="614" width="321" height="614" frameX="-189" frameY="0" frameWidth="510" frameHeight="614"/>
+</TextureAtlas>
